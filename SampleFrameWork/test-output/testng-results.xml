@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+    <line>
+      <![CDATA[testCreateUser]]>
+    </line>
+    <line>
+      <![CDATA[testDeleteUser]]>
+    </line>
+    <line>
+      <![CDATA[testEditUser]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="74" started-at="2019-10-16T17:51:32Z" finished-at="2019-10-16T17:51:32Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="74" started-at="2019-10-16T17:51:32Z" finished-at="2019-10-16T17:51:32Z">
+      <class name="com.actitime.test.CreateUser">
+        <test-method status="PASS" signature="testCreateUser()[pri:0, instance:com.actitime.test.CreateUser@326de728]" name="testCreateUser" duration-ms="38" started-at="2019-10-16T23:21:32Z" finished-at="2019-10-16T23:21:32Z">
+          <reporter-output>
+            <line>
+              <![CDATA[testCreateUser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testCreateUser -->
+        <test-method status="PASS" signature="testDeleteUser()[pri:0, instance:com.actitime.test.CreateUser@326de728]" name="testDeleteUser" duration-ms="2" started-at="2019-10-16T23:21:32Z" finished-at="2019-10-16T23:21:32Z">
+          <reporter-output>
+            <line>
+              <![CDATA[testDeleteUser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testDeleteUser -->
+        <test-method status="PASS" signature="testEditUser()[pri:0, instance:com.actitime.test.CreateUser@326de728]" name="testEditUser" duration-ms="2" started-at="2019-10-16T23:21:32Z" finished-at="2019-10-16T23:21:32Z">
+          <reporter-output>
+            <line>
+              <![CDATA[testEditUser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testEditUser -->
+      </class> <!-- com.actitime.test.CreateUser -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
